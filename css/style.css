@@ -8,14 +8,16 @@
 /*HOME*/
 @import "./home/introducao.css";
 
+@import "./home/tecnologia.css";
+
+@import "./home/parceiros.css";
+
+@import "./home/depoimento.css";
+
+
 /*BICICLETAS*/
 @import "./bicicletas/bicicletas-lista.css";
 
-/*TECNOLOGIA*/
-@import "./home/tecnologia.css";
 
-/*PARCEIROS*/
-@import "./home/parceiros.css";
-
-/*DEPOIMENTO*/
-@import "./home/depoimento.css";
+/*SEGUROS*/
+@import "./seguros/seguros.css";
