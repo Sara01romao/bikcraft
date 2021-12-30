@@ -29,5 +29,6 @@
 /*TERMOS*/
 @import "./termos/termos.css";
 
-/*BICICLETAS*/
+/*BICICLETA*/
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
